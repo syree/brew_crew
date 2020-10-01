@@ -1,5 +1,7 @@
 # brew_crew
 
+This project is aimed to solve the problem of remembering preference of each and every user in a circle so as to order easily according to preference.
+
 A new Flutter project.
 
 ## Getting Started
